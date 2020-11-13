@@ -1,2 +1,2 @@
 # PhylogeneticTree
-Creates a Phylogenetic Tree from some given species
+Creates a Phylogenetic Tree for some given species
